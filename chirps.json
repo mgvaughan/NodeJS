@@ -1,0 +1,27 @@
+let timeLine = [
+    {
+        "username": "@Mike",
+        "chirp": "Hi there!",
+        "date": "October 7, 2022"
+    },
+    {
+        "username": "@Michael",
+        "chirp": "Greetings!",
+        "date": "October 7, 2022"
+    },
+    {
+        "username": "@Miguel",
+        "chirp": "Hola!",
+        "date": "October 7, 2022"
+    },
+    {
+        "username": "@Michele",
+        "chirp": "Good Day!",
+        "date": "October 7, 2022"
+    },
+    {
+        "username": "@Mikey",
+        "chirp": "Welcome!",
+        "date": "October 7, 2022"
+    }
+];
